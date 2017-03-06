@@ -1,0 +1,33 @@
+
+{
+    "knowledge":[{
+            "Q":"What is your name",
+            "A":"My name is BikeBot!"
+        },
+        {
+            "Q":"Hi"
+        },
+        {
+            "Q":"Hey"
+        },
+        {
+            "Q":"Hello"
+        },
+        {
+            "Q":"How are you",
+            "A":"I am doing really well, its nice up in the cloud!"
+        },
+        {
+            "Q":"What are you",
+            "A":"I am an A.I program here to help you!"
+        },
+        {
+            "Q":"Cheers",
+            "A":"No problem, Let me know when you need my help!"
+        },
+        {
+            "Q":"Thank you",
+            "A":"No problem, Let me know when you need my help!"
+        }
+    ]
+}
