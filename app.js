@@ -262,7 +262,7 @@ function readKnowledgeBase(sender, messageText){
     return matchedQuery;
 }
 
-//Retrieves how many free bikes or Spaces are available at the given location
+//Retrieves how many free bikes or Spaces are available at the given location testing
 function getBikesSpaces(sender, messageText){
 
     var y = messageText;
